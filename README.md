@@ -17,7 +17,7 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 - 🌱 I’m currently learning **React.js**
 
-- 🥅 2021 Goals: Contribute more projects & learn new stacks 
+- 🥅 2022 Goals: Contribute more projects & learn new stacks 
 
 - 💬 Ask me about [** Java, JavaScript, Python, and more**](https://github.com/fernandofatech/fernandofatech/issues)
 
