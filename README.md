@@ -11,11 +11,11 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Freelancer.com**
+- 🔭 I’m currently working on [**Freelancer.com**](https://www.freelancer.com)
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about ** Java, JavaScript, Python, and more**
+- 💬 Ask me about [** Java, JavaScript, Python, and more**](https://github.com/fernandofatech/fernandofatech/issues)
 
 - 📫 How to reach me **fernando.tech@icloud.com**
 
