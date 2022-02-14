@@ -13,7 +13,11 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 - 🔭 I’m currently working on [**Freelancer.com**](https://www.freelancer.com)
 
+-  🤔 I’m looking for help with web projects and competitive programing
+
 - 🌱 I’m currently learning **React.js**
+
+- 🥅 2021 Goals: Contribute more projects & learn new stacks 
 
 - 💬 Ask me about [** Java, JavaScript, Python, and more**](https://github.com/fernandofatech/fernandofatech/issues)
 
@@ -24,6 +28,8 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 - [🧑🏽‍💻 Resume](https://drive.google.com/file/d/1rqRegcBOfTA7evA80MFiZrVXgBtFdNXU/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-francisco-azevedo/)
+
+🕵 Take a look at my repositories and let's get in touch
 
 ## Core Technologies
 
@@ -52,3 +58,5 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandofatech&show_icons=true&locale=en&theme=tokyonight" alt="fernandofatech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandofatech&&theme=tokyonight" alt="fernandofatech" /></p>
+
+If you like it, do fork 🍴 and star ⭐
