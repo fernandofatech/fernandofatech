@@ -69,8 +69,12 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
     <td>Fernando was a bright and hard-working student who was prepared to put in the extra effort where needed. I am certain that Fernando is going to continue to do great and creative things in his future career. </td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://www.linkedin.com/in/julianag/">Juliana Garcia </a></td>
+    <td><a target="_blank" href="https://www.linkedin.com/in/julianag/">Juliana Garcia</a></td>
     <td>Fernando is very enthusiastic and focused professional. He is frequently looking for professional improvement and acquiring new and more developed skills. Very organized and always willing to help his co-workers. I would highly recommend him as a high potential partner.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/oscar--neto/">Oscar Neto</a></td>
+    <td>Fernando constantly amazed me with his industry insight and original approaches to solving problems. His hands-on approach to Java, Spring, DevOps, and strong personality won him the respect of the technical team. Fernando provided outstanding results for Full Stack Developer. He had vision to see the benefits and the passion to turn that into a competitive advantage for Full Stack Developer. Fernando is one of the most valuable members of our group. Experiencing his quick and sharp mind at work is most impressive.</td>
   </tr>
 </table>
 
