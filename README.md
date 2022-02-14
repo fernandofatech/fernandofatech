@@ -29,8 +29,6 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-francisco-azevedo/)
 
-🕵 Take a look at my repositories and let's get in touch
-
 ## Core Technologies
 
 <div style="display: inline_block"><br>
@@ -77,6 +75,9 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
     <td>Fernando constantly amazed me with his industry insight and original approaches to solving problems. His hands-on approach to Java, Spring, DevOps, and strong personality won him the respect of the technical team. Fernando provided outstanding results for Full Stack Developer. He had vision to see the benefits and the passion to turn that into a competitive advantage for Full Stack Developer. Fernando is one of the most valuable members of our group. Experiencing his quick and sharp mind at work is most impressive.</td>
   </tr>
 </table>
+
+🕵 Take a look at my repositories and let's get in touch
+
 
 ## Github stats
 
