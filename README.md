@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hi 👋, I'm Fernando Azevedo
 
 Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
