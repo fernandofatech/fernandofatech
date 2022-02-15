@@ -86,9 +86,12 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fernandofatech&&theme=xcode)](https://github.com/fernandofatech)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandofatech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fernandofatech" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandofatech&show_icons=true&locale=en&theme=tokyonight" alt="fernandofatech" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandofatech&&theme=tokyonight" alt="fernandofatech" /></p>
 
