@@ -1,5 +1,6 @@
-## Hi there 👋!
+<p><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here"/></p>
 
+### Hi there 👋!
 Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
 
 ![Visits Badge](https://badges.pufler.dev/visits/fernandofatech/fernandofatech/?color=white)
