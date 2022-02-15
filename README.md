@@ -82,8 +82,7 @@ Fernando is also a budding DevOps engineer who's familiar with Docker, Travis an
 
 🕵 Take a look at my repositories and let's get in touch
 
-
-## Github stats
+## Github stats  
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fernandofatech&&theme=xcode)](https://github.com/fernandofatech)
 
