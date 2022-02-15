@@ -2,6 +2,10 @@
 
 Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
 
+<p align='center'>
+  <img src="https://img.shields.io/badge/dynamic/json?color=054C8A&labelColor=033057&label=Profile%20Views&prefix=%20&query=value&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdemondaddy%2Fecfc869b-0c97-4e43-ba47-f9d06ca0c182&style=for-the-badge&logo=github">
+</p>
+
 Fernando is a software engineer 👨‍💻. He has a passion for building stuff particularly with Java, JavaScript or Typescript and is a great fan of frameworks/libraries such as Spring Boot, Express, Angular and React.
 
 Fernando is also a budding DevOps engineer who's familiar with Docker, Travis and Jenkins and is open to learning new technologies. He's strongly passionate about RESTful APIs, GraphQL, Microservices, Blockchain (he's still learning this one), Cloud Computing (he's still learning this one), Serverless technology (he's still learning this one) and Big Data (he's still learning this one). The cool part is he's hoping to delve into machine learning and artificial intelligence in the not-so-distant future 🚀 ✨
