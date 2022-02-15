@@ -2,9 +2,9 @@
 
 Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/dynamic/json?color=054C8A&labelColor=033057&label=Profile%20Views&prefix=%20&query=value&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdemondaddy%2Fecfc869b-0c97-4e43-ba47-f9d06ca0c182&style=for-the-badge&logo=github">
-</p>
+![Visits Badge](https://badges.pufler.dev/visits/fernandofatech/fernandofatech/?color=white)
+![Repos Badge](https://badges.pufler.dev/repos/fernandofatech/?color=white)
+
 
 Fernando is a software engineer 👨‍💻. He has a passion for building stuff particularly with Java, JavaScript or Typescript and is a great fan of frameworks/libraries such as Spring Boot, Express, Angular and React.
 
