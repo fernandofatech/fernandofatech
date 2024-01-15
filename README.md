@@ -48,21 +48,6 @@
 
 ---
 
-### 🎯 Seeking Opportunities in Technical Leadership
-
-🔍 I am on the lookout for roles that resonate with my deep-seated passion for technology and innovation, eyeing positions like:
-
-- Software Engineer
-- Information Security Analyst
-- Infrastructure Analyst
-- FullStack Developer
-- Tech Lead
-- CTO
-
-I am particularly drawn to remote or hybrid work arrangements, valuing the balance and flexibility they provide.
-
----
-
 ### 📣 Let’s Connect!
 
 - 📫 **Email**: [fernando.tech@icloud.com](mailto:fernando.tech@icloud.com)
