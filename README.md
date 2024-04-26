@@ -48,6 +48,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=fernandofatech&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 ### 📣 Let’s Connect!
 
 - 📫 **Email**: [fernando.tech@icloud.com](mailto:fernando.tech@icloud.com)
