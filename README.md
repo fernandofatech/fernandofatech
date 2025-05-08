@@ -1,58 +1,64 @@
-# Fernando Francisco Azevedo: Digital Architect & Innovation Strategist
+# 👨‍💻 Fernando Francisco Azevedo
 
-## At the Crossroads of Technology & Innovation
-
-🚀 **Hello World!** I’m Fernando, a pioneering digital architect and innovation strategist, firmly rooted at the vibrant intersection of technology and creativity. My extensive 16-year journey through the tech landscape has endowed me with a rich repertoire of skills and insights, setting me up to master the challenges of the future.
-
----
-
-### 🛠 Technical Mastery
-
-#### **Linux & Automation**
-- Masterful in administration, shell scripting, and automation, with a comprehensive understanding of Linux systems including Ubuntu, CentOS, and Debian.
-- Proven proficiency in configuring and managing web servers, database servers, and application servers.
-
-#### **Cloud Architecture & DevOps**
-- Broad experience with AWS, showcasing deep comprehension of its myriad services.
-- Adept at crafting and managing cloud infrastructure via AWS CloudFormation and Terraform.
-- Specialized in serverless architecture, particularly with AWS Lambda, for creating scalable applications.
-- Extensive hands-on experience with AWS IoT for devising IoT solutions.
-- Skilled in data management and storage using AWS tools like S3, RDS, and DynamoDB.
-- Competent in establishing CI/CD pipelines with AWS CodePipeline, Jenkins, and other platforms.
-
-#### **Network Protocols**
-- Expert in configuring and troubleshooting firewall, proxy, VPN, and advanced network configurations.
-- Solid grasp of network protocols, including TCP/IP, HTTP/HTTPS, DNS, and DHCP.
-
-#### **Programming & Frameworks**
-- Fluent in Java, TypeScript, and Python, with a deep understanding of their ecosystems.
-- Proficient in using frameworks like Next.js for front-end development and Nest.js for creating scalable backend applications.
-- Extensive experience in developing applications following a microservices architecture.
-
-#### **Security & Performance**
-- Hands-on experience with cybersecurity tools such as Kali Linux, Metasploit, and various firewall solutions.
-- Knowledgeable about security best practices and protocols.
-- Expert in performance optimization, utilizing CDN solutions such as Cloudflare.
+📍 São Paulo, Brazil  
+📫 [fernando@moretes.com](mailto:fernando@moretes.com)  
+🌐 [fernando.moretes.com](https://fernando.moretes.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo) | [GitHub](https://github.com/fernandofatech) | [Resume (PDF)](https://fernando.moretes.com/files/resume-cv.pdf)
 
 ---
 
-### 🌎 Global Experience & Bilingual Expertise
+## 💼 About Me
 
-🌐 With 6 years of thriving in multicultural environments, I have collaborated with teams from the EU, Philippines, India, and the UK, honing my technical skills and cultural agility. This makes me a bilingual expert, fluent in both English and Portuguese.
+I’m a Solution Architect and Senior Software Engineer with over **16 years of global experience** across Brazil, Europe, and Asia. I specialize in building **cloud-native**, **event-driven**, and **enterprise-grade systems** using **AWS**, **Node.js**, **NestJS**, **React**, and **Microfrontends**.
 
----
-
-### 🏆 Leadership & Innovation
-
-💡 As an innovation strategist and natural leader, I am constantly seeking ways to drive efficiency, refine processes, and remain at the forefront of technological advancements. My entrepreneurial spirit has been the catalyst for groundbreaking projects, leading diverse teams to triumph.
+My work blends **DevSecOps culture**, **developer experience**, and **ethical AI**, with deep focus on **Clean Architecture**, **DDD**, **CQRS**, and **secure-by-design** principles. I have led modernization efforts in **digital banking**, **blockchain platforms**, and **AI-based DevOps automation**.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fernandofatech&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+## 🧠 Technical Expertise
 
-### 📣 Let’s Connect!
+- **Cloud & IaC:** AWS (Lambda, ECS, S3, Cognito, etc), Terraform, CDK, Kubernetes, GitHub Actions, ArgoCD  
+- **Languages & Frameworks:** TypeScript, JavaScript, Python, Go (basic), Node.js, NestJS, React, Next.js  
+- **DevSecOps & Security:** Trivy, Snyk, Vault, OPA, Kyverno, Falco, OWASP ZAP, SBOMs, Sigstore  
+- **System Design:** Clean Architecture, Hexagonal, Microservices, Event-Driven, Serverless, CQRS, BFF  
+- **AI & Automation:** GPT-4, Bedrock, Langchain, CI/CD automation with LLMs and anomaly detection  
+- **Observability:** Datadog, OpenTelemetry, Prometheus, Grafana, Sentry, ELK, Jaeger  
+- **Databases:** PostgreSQL, DynamoDB, MongoDB, Redis, Kafka, TimescaleDB  
 
-- 📫 **Email**: [fernando.tech@icloud.com](mailto:fernando.tech@icloud.com)
-- 📱 **LinkedIn**: [Fernando Francisco Azevedo](https://www.linkedin.com/in/fernando-francisco-azevedo/)
+---
 
-_Ready to embrace innovation and propel excellence in the tech world._
+## 🚀 Featured Projects
+
+### 🔐 Digital Banking Core Modernization  
+Led architectural transformation using AWS Lambda, ECS, EventBridge, Cognito, and Clean Architecture. Integrated full observability and DevSecOps practices.
+
+### 🛠️ Blockchain-as-a-Service (BaaS)  
+Architected a platform for enterprise token issuance and smart contract lifecycle, with Kubernetes, GitOps and Vault.
+
+### 🖼️ NFT Marketplace & Launchpad  
+Full-stack delivery of a multi-chain NFT trading platform with decentralized storage and secure auctions.
+
+### ✍️ NFT-based Digital Signature  
+Technical lead of an e-signature solution powered by NFTs and mobile QR-based access for identity assurance.
+
+### 🤖 AI-Powered DevOps & Monitoring  
+Implemented LLM-based CI/CD agents and anomaly detection pipelines using GPT-4, Bedrock, Langchain, and Pinecone.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🧠 **MBA in Solution Architecture** — Full Cycle (2024–2025)  
+- 💻 **Diploma in Computing** — CCT College Dublin (First-Class Honors)  
+- 🎓 CS50x — Harvard University  
+- 🏅 Docker Mastery, IT Security Specialist, ACMT/ACiT Certified  
+
+---
+
+## 👥 Let’s Connect!
+
+I'm open to **remote opportunities**, contract roles, and exciting collaborations in software architecture, fintech, and emerging tech. Feel free to connect or drop a message via [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo) or [WhatsApp](https://wa.me/5511975226949?text=Hi%20Fernando,%20I%20saw%20your%20GitHub%20profile!).
+
+---
+
+> “Build systems that scale, secure by design, and deliver real impact — with clarity, curiosity, and code.”
