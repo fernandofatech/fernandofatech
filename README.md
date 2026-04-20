@@ -1,64 +1,65 @@
-# 👨‍💻 Fernando Francisco Azevedo
+<div align="center">
 
-📍 São Paulo, Brazil  
-📫 [fernando@moretes.com](mailto:fernando@moretes.com)  
-🌐 [fernando.moretes.com](https://fernando.moretes.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo) | [GitHub](https://github.com/fernandofatech) | [Resume (PDF)](https://fernando.moretes.com/files/resume-cv.pdf)
+# Fernando Azevedo
 
----
+### Senior Solution Architect · AWS · Serverless · Event-Driven Systems
 
-## 💼 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandofatech-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandofatech/)
+[![GitHub followers](https://img.shields.io/github/followers/fernandofatech?style=social)](https://github.com/fernandofatech)
 
-I’m a Solution Architect and Senior Software Engineer with over **16 years of global experience** across Brazil, Europe, and Asia. I specialize in building **cloud-native**, **event-driven**, and **enterprise-grade systems** using **AWS**, **Node.js**, **NestJS**, **React**, and **Microfrontends**.
-
-My work blends **DevSecOps culture**, **developer experience**, and **ethical AI**, with deep focus on **Clean Architecture**, **DDD**, **CQRS**, and **secure-by-design** principles. I have led modernization efforts in **digital banking**, **blockchain platforms**, and **AI-based DevOps automation**.
+</div>
 
 ---
 
-## 🧠 Technical Expertise
+### About me
 
-- **Cloud & IaC:** AWS (Lambda, ECS, S3, Cognito, etc), Terraform, CDK, Kubernetes, GitHub Actions, ArgoCD  
-- **Languages & Frameworks:** TypeScript, JavaScript, Python, Go (basic), Node.js, NestJS, React, Next.js  
-- **DevSecOps & Security:** Trivy, Snyk, Vault, OPA, Kyverno, Falco, OWASP ZAP, SBOMs, Sigstore  
-- **System Design:** Clean Architecture, Hexagonal, Microservices, Event-Driven, Serverless, CQRS, BFF  
-- **AI & Automation:** GPT-4, Bedrock, Langchain, CI/CD automation with LLMs and anomaly detection  
-- **Observability:** Datadog, OpenTelemetry, Prometheus, Grafana, Sentry, ELK, Jaeger  
-- **Databases:** PostgreSQL, DynamoDB, MongoDB, Redis, Kafka, TimescaleDB  
+I design and deliver cloud-native systems end-to-end — from architecture to production. My focus is on **AWS, serverless, event-driven architectures** and platform engineering that enables teams to ship fast without breaking reliability or cost.
+
+- Designing reference architectures and ADRs that scale
+- Building FinOps-aware systems (cost as a first-class citizen)
+- Coaching engineering teams on cloud patterns and developer experience
+- Open-source contributor — tools for productivity, OSINT and cloud ops
+
+### What I work with
+
+**Cloud & Infra** — AWS · Terraform · CloudFront · Lambda · EventBridge · SQS · Kinesis · MSK
+**Backend** — Node.js · TypeScript · Python · REST · Event-driven
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · Astro
+**Data & ML** — Python · Pandas · Open data pipelines
+**DevOps** — Docker · Traefik · GitHub Actions · Homelab automation
+**Security** — OSINT · Shodan · Wireless assessments
+
+### Highlighted projects
+
+| Project | Description |
+|---|---|
+| [**AWS-Cost-Calculator**](https://github.com/fernandofatech/AWS-Cost-Calculator) | Fast AWS cost estimator for architects |
+| [**queue-advisor-pricing-app**](https://github.com/fernandofatech/queue-advisor-pricing-app) | SQS / Kinesis / EventBridge / MSK pricing advisor |
+| [**fernando-solution-architect**](https://github.com/fernandofatech/fernando-solution-architect) | Portfolio of reference architectures and ADRs |
+| [**DataJudAnalyzer**](https://github.com/fernandofatech/DataJudAnalyzer) | Automated analysis of Brazilian judicial data |
+| [**setup-macos-developer**](https://github.com/fernandofatech/setup-macos-developer) | Opinionated macOS developer environment |
+| [**M5Cardputer-SSHClient**](https://github.com/fernandofatech/M5Cardputer-SSHClient) | Pocket-sized SSH terminal for M5Cardputer |
+
+### GitHub stats
+
+<div align="center">
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandofatech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofatech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### Let's connect
+
+If you're working on **cloud architecture, platform engineering, FinOps or event-driven systems**, I'd love to talk.
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fernandofatech/)
+- 💻 Browse my work on [GitHub](https://github.com/fernandofatech?tab=repositories)
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🔐 Digital Banking Core Modernization  
-Led architectural transformation using AWS Lambda, ECS, EventBridge, Cognito, and Clean Architecture. Integrated full observability and DevSecOps practices.
+_Building reliable, cost-aware, production-ready cloud systems._
 
-### 🛠️ Blockchain-as-a-Service (BaaS)  
-Architected a platform for enterprise token issuance and smart contract lifecycle, with Kubernetes, GitOps and Vault.
-
-### 🖼️ NFT Marketplace & Launchpad  
-Full-stack delivery of a multi-chain NFT trading platform with decentralized storage and secure auctions.
-
-### ✍️ NFT-based Digital Signature  
-Technical lead of an e-signature solution powered by NFTs and mobile QR-based access for identity assurance.
-
-### 🤖 AI-Powered DevOps & Monitoring  
-Implemented LLM-based CI/CD agents and anomaly detection pipelines using GPT-4, Bedrock, Langchain, and Pinecone.
-
----
-
-## 🎓 Education & Certifications
-
-- 🧠 **MBA in Solution Architecture** — Full Cycle (2024–2025)  
-- 💻 **Diploma in Computing** — CCT College Dublin (First-Class Honors)  
-- 🎓 CS50x — Harvard University  
-- 🏅 Docker Mastery, IT Security Specialist, ACMT/ACiT Certified  
-
----
-
-## 👥 Let’s Connect!
-
-I'm open to **remote opportunities**, contract roles, and exciting collaborations in software architecture, fintech, and emerging tech. Feel free to connect or drop a message via [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo) or [WhatsApp](https://wa.me/5511975226949?text=Hi%20Fernando,%20I%20saw%20your%20GitHub%20profile!).
-
----
-
-> “Build systems that scale, secure by design, and deliver real impact — with clarity, curiosity, and code.”
+</div>
