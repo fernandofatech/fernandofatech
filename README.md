@@ -63,3 +63,13 @@ If you're working on **cloud architecture, platform engineering, FinOps or event
 _Building reliable, cost-aware, production-ready cloud systems._
 
 </div>
+
+## Portfolio / Portfólio
+
+- **Live / Ao vivo:** [Fernando Fatech GitHub Profile](https://fernando.moretes.com)
+- **GitHub:** [fernandofatech/fernandofatech](https://github.com/fernandofatech/fernandofatech)
+- **Author / Autor:** [Fernando Francisco Azevedo](https://fernando.moretes.com) · [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo/) · [GitHub](https://github.com/fernandofatech)
+
+**PT-BR:** GitHub profile README for Fernando Francisco Azevedo. Este repositório público faz parte do ecossistema de portfólio de Fernando Moretes, com foco em arquitetura de soluções, AWS, IA, automação e boas práticas de engenharia.
+
+**EN:** GitHub profile README for Fernando Francisco Azevedo. This public repository is part of Fernando Moretes' portfolio ecosystem, focused on solution architecture, AWS, AI, automation, and pragmatic engineering practices.
