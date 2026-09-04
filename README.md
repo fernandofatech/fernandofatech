@@ -37,8 +37,8 @@ I design and deliver cloud-native systems end-to-end — from architecture to pr
 | [**queue-advisor-pricing-app**](https://github.com/fernando-moretes/app-queue-advisor-pricing) | SQS / Kinesis / EventBridge / MSK pricing advisor |
 | [**fernando-solution-architect**](https://github.com/fernando-moretes/app-fernando-solution-architect) | Portfolio of reference architectures and ADRs |
 | [**DataJudAnalyzer**](https://github.com/fernando-moretes/tool-datajudanalyzer) | Automated analysis of Brazilian judicial data |
-| [**setup-macos-developer**](https://github.com/fernando-moretes/dot-setup-macos-developer) | Opinionated macOS developer environment |
-| [**M5Cardputer-SSHClient**](https://github.com/fernando-moretes/tool-m5cardputer-sshclient) | Pocket-sized SSH terminal for M5Cardputer |
+| [**setup-macos-developer**](https://github.com/fernandofatech/dot-setup-macos-developer) | Opinionated macOS developer environment |
+| [**M5Cardputer-SSHClient**](https://github.com/fernandofatech/tool-m5cardputer-sshclient) | Pocket-sized SSH terminal for M5Cardputer |
 
 ### The platform behind the work
 
