@@ -33,12 +33,34 @@ I design and deliver cloud-native systems end-to-end — from architecture to pr
 
 | Project | Description |
 |---|---|
-| [**AWS-Cost-Calculator**](https://github.com/fernandofatech/AWS-Cost-Calculator) | Fast AWS cost estimator for architects |
-| [**queue-advisor-pricing-app**](https://github.com/fernandofatech/queue-advisor-pricing-app) | SQS / Kinesis / EventBridge / MSK pricing advisor |
-| [**fernando-solution-architect**](https://github.com/fernandofatech/fernando-solution-architect) | Portfolio of reference architectures and ADRs |
-| [**DataJudAnalyzer**](https://github.com/fernandofatech/DataJudAnalyzer) | Automated analysis of Brazilian judicial data |
-| [**setup-macos-developer**](https://github.com/fernandofatech/setup-macos-developer) | Opinionated macOS developer environment |
-| [**M5Cardputer-SSHClient**](https://github.com/fernandofatech/M5Cardputer-SSHClient) | Pocket-sized SSH terminal for M5Cardputer |
+| [**AWS-Cost-Calculator**](https://github.com/fernando-moretes/app-aws-cost-calculator) | Fast AWS cost estimator for architects |
+| [**queue-advisor-pricing-app**](https://github.com/fernando-moretes/app-queue-advisor-pricing) | SQS / Kinesis / EventBridge / MSK pricing advisor |
+| [**fernando-solution-architect**](https://github.com/fernando-moretes/app-fernando-solution-architect) | Portfolio of reference architectures and ADRs |
+| [**DataJudAnalyzer**](https://github.com/fernando-moretes/tool-datajudanalyzer) | Automated analysis of Brazilian judicial data |
+| [**setup-macos-developer**](https://github.com/fernando-moretes/dot-setup-macos-developer) | Opinionated macOS developer environment |
+| [**M5Cardputer-SSHClient**](https://github.com/fernando-moretes/tool-m5cardputer-sshclient) | Pocket-sized SSH terminal for M5Cardputer |
+
+### The platform behind the work
+
+All my repositories live in **[@fernando-moretes](https://github.com/fernando-moretes)** —
+154 repos under one naming convention, one pipeline and self-hosted observability.
+
+They moved there for a specific technical reason: a personal GitHub account has
+no account-level runners. The API only exposes `/repos/{owner}/{repo}` and
+`/orgs/{org}` — the user endpoint returns 404. On a personal account, self-hosted
+CI would need one runner container per repository. With the organization, **two
+runners serve all 154**.
+
+| | |
+|---|---|
+| **Convention** | Eight prefixes — `app-` `svc-` `ref-` `tool-` `infra-` `lib-` `dot-` `lab-` |
+| **Pipeline** | One set of reusable workflows in [`platform-workflows`](https://github.com/fernando-moretes/platform-workflows); fixing the rule means changing one file |
+| **Runner** | Private repos on self-hosted (free minutes); public repos on GitHub-hosted (free and unlimited for public) |
+| **Security** | gitleaks and trivy everywhere; SonarQube and DefectDojo on the private ones, which run inside the network |
+| **Releases** | SemVer computed from Conventional Commits — nobody types a version number |
+
+The full index, with the architecture diagram and the reasoning behind each
+decision, is on the [organization profile](https://github.com/fernando-moretes).
 
 ### GitHub stats
 
@@ -54,7 +76,7 @@ I design and deliver cloud-native systems end-to-end — from architecture to pr
 If you're working on **cloud architecture, platform engineering, FinOps or event-driven systems**, I'd love to talk.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fernandofatech/)
-- 💻 Browse my work on [GitHub](https://github.com/fernandofatech?tab=repositories)
+- 💻 Browse my work on [@fernando-moretes](https://github.com/fernando-moretes)
 
 ---
 
