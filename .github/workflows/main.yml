@@ -1,4 +1,4 @@
-# Gerado por fernandofatech/platform. Não edite aqui.
+# Gerado por fernando-moretes/platform. Não edite aqui.
 name: main
 
 on:
@@ -12,12 +12,22 @@ concurrency:
 
 jobs:
   ci:
-    uses: fernandofatech/platform/.github/workflows/ci-generic.yml@main
+    uses: fernando-moretes/platform-workflows/.github/workflows/ci-generic.yml@main
+    with:
+      runner: '["ubuntu-latest"]'
 
   seguranca:
-    uses: fernandofatech/platform/.github/workflows/security.yml@main
+    # O chamador precisa conceder o que o workflow chamado pede: um reusable
+    # workflow nao pode escalar alem da permissao de quem o chamou, e sem isto
+    # o run falha antes de comecar.
+    permissions:
+      contents: read
+      security-events: write
+      actions: read
+    uses: fernando-moretes/platform-workflows/.github/workflows/security.yml@main
     secrets: inherit
     with:
+      runner: '["ubuntu-latest"]'
       sonar_host: ""
       defectdojo_host: ""
 
@@ -26,6 +36,8 @@ jobs:
     # Só corta versão se o CI passou: tag apontando para código quebrado é
     # pior que não ter tag.
     if: success()
-    uses: fernandofatech/platform/.github/workflows/release.yml@main
+    uses: fernando-moretes/platform-workflows/.github/workflows/release.yml@main
+    with:
+      runner: '["ubuntu-latest"]'
     permissions:
       contents: write
