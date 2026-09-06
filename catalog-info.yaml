@@ -1,0 +1,25 @@
+# Gerado por fernando-moretes/platform. Não edite aqui: mude no orquestrador e
+# rode `make rollout`. É o que o Backstage (backstage.home.lab) lê deste repo.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fernandofatech
+  description: GitHub profile README for Fernando Francisco Azevedo, solution architect focused on AWS, AI, DevSecOps and automation.
+  annotations:
+    github.com/project-slug: fernandofatech/fernandofatech
+    backstage.io/source-location: url:https://github.com/fernandofatech/fernandofatech
+    sonarqube.org/project-key: fernandofatech
+  links:
+    - url: https://github.com/fernandofatech/fernandofatech/actions
+      title: Actions
+      icon: github
+    - url: https://sonarqube.home.lab/dashboard?id=fernandofatech
+      title: SonarQube
+    - url: https://defectdojo.home.lab/product?name=fernandofatech
+      title: DefectDojo
+  tags: [other, ci-generic.yml]
+spec:
+  type: other
+  lifecycle: production
+  owner: group:plataforma
+  system: homelab
